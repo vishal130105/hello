@@ -1,8 +1,9 @@
 print("Hello there!")
 print("Welcome To Multipilcation")
-prnt("First number")
-num_1 = int(input(""))
+print("First number")
+Num_1st = int(input(""))
 print("Second number")
-num_2 = int(input(""))
-Producn = str(num1 * num_2)
+Num_2nd = int(input(""))
+
+Product = str(Num_1st* Num_2nd)
 print("The product is " + Product)
