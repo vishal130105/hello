@@ -1,12 +1,14 @@
 print("Hello there!")
+name = str(input("Name: ")) 
 print("Welcome To Addition")
-prnt("First number")
+print("First number")
 num_1 = int(input(""))
 print("Second number")
 num_2 = int(input(""))
-
-Sun = str(num1 + num_2)
-
+Sum = str(num_1 + num_2)
 print("The sum is " + Sum)
+print("")
+print("")
+print("Thanks " + name " for using my program")
 
 
