@@ -8,4 +8,4 @@ The programs are :
   * Multiplication
   * Division
   * Modulo Division
-  * Power/Exponent Calulation
+  * Power/Exponent Calculation
