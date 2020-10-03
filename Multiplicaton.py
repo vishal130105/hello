@@ -1,8 +1,15 @@
 print("Hello there!")
+name = str(input("Name: "))
 print("Welcome To Multipilcation")
 print("First number")
-num_1 = int(input(""))
+Num_1st = int(input(""))
 print("Second number")
-num_2 = int(input(""))
-Product = str(num_1 * num_2)
+Num_2nd = int(input(""))
+
+Product = str(Num_1st* Num_2nd)
 print("The product is " + Product)
+print("")
+
+print("")
+
+print("Thanks " + name " for using my program")
