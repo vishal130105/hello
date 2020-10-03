@@ -1,2 +1,3 @@
 **Doc**
-It ia s python file contaning 4 file in .py format having programmes written for addition,subtraction,multiplication and deletion.
+It is a python file contaning 4 files in .py format having Programmes written for addition,subtraction,multiplication and division.
+
