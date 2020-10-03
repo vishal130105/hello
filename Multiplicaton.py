@@ -12,4 +12,4 @@ print("")
 
 print("")
 
-print("Thanks " + name " for using my program")
+print("Thanks " + name +"for using my program")
