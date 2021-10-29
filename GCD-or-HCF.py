@@ -15,4 +15,3 @@ while(b!=0):
     a=b
     b=t
 print("\nGCD/HCF of",num1,"&",num2,"is",a)
-print(" Thanks ")
